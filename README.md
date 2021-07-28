@@ -1,7 +1,7 @@
 # FE21-CR3-MarkusKamitz
 Third Code Review | 25.06.2021
 
-For this CodeReview, the following criteria were graded:
+**For this CodeReview, the following criteria were graded:**
 
 * Create a GitHub Repository named: FE21-CR3-YourName. Push the files into it and send the link through the learning management system (lms). Add a collaborator and make set your repository to private. See an example of a GitHub link below: https://github.com/JohnDoe/repositoryname.git
 
@@ -23,7 +23,7 @@ For this CodeReview, the following criteria were graded:
 
 * Create at least 3 different combinations of different dishes on your menu to calculate the invoice and print it on the console.
 
-Bonus Points:
+**Bonus Points:**
 
 * Create a function studentInvoice that will apply a 10% discount to the final invoice. This function should have the same parameters as the function calculateInvoice. This discount applies to the dishes but NOT the beverages. 
  
